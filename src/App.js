@@ -5,6 +5,7 @@ import { RicardoCollection } from './ui-components';
 function App() {
   return (
     <div className="App">
+    Ricardo
       <RicardoCollection />
     </div>
   );
