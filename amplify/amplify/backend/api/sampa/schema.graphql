@@ -1,0 +1,5 @@
+type HOUSES @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  address: String
+  photo: String
+}
